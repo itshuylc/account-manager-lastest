@@ -1,0 +1,11 @@
+{
+    "version": "1.1.0",
+    "notes": "Hiển thị Dashboard doanh thu cho kênh BKT. Kênh GA hiển thị danh sách liên kết rõ ràng hơn",
+    "pub_date": "2026-01-12T15:50:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjAvVG93YlJNZC8rRFVsb3RoUjNIdGFEdEpYWEhJZGlnNmNJZUVwSmxkTEgxcUdaSTluck9OZHVjbTkxL01sNG5MU3hKK0lleFhqbXd3d1hyaDgzMENlYmwzWVZpWVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MTkxNTMxCWZpbGU6QWNjb3VudCBNYW5hZ2VyXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwCmRvNWM4V2V3Y25DRmhNYzk3aVVPL1FFNmV5WXpSdEJJVHN4TmNTQWZvN3Ewek1UZ2FnV3JuZyt4MEI3TGM4SllIY3JpMHI4UjBkaEo1a1lBWW1OakRBPT0K",
+            "url": "https://github.com/itshuylc/account-manager/releases/download/v1.1.0/Account.Manager_1.1.0_x64_en-US.msi.zip"
+        }
+    }
+}
