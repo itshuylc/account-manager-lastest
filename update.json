@@ -1,6 +1,6 @@
 {
     "version": "1.1.2",
-    "notes": "- Thêm danh mục KÊNH XỊT và tính năng đếm ngược",
+    "notes": "Fix lại logic một số thư mục",
     "pub_date": "2026-01-15T15:50:00Z",
     "platforms": {
         "windows-x86_64": {
@@ -10,6 +10,7 @@
     }
 
 }
+
 
 
 
