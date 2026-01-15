@@ -1,14 +1,15 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "notes": "- Thêm danh mục KÊNH XỊT và tính năng đếm ngược",
-    "pub_date": "2026-01-14T15:50:00Z",
+    "pub_date": "2026-01-15T15:50:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjAvVG93YlJNZCtwbXRZNFVuMTQ4ZnZvamlGMVM0elhuVHB4eEx1VDIxOGpobFNKbmZSLzM4elVsV01EdUNXUUY4RkhvODJFOU5jT3RyaVEwczVXRXFmTVZPNmlEQkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzU5MTIxCWZpbGU6QWNjb3VudCBNYW5hZ2VyXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCnVHRUNhcjJXVzJvVDgwNlJBUGdsUVJPbmEyZ3lSMExaUDF0UEhmbU1jeXA2cTZCVXZETm9LOGRjRnhJb0JXRUtQWVJyRSsyNEVuTWJWVGxOY1Zob0FRPT0K",
-            "url": "https://github.com/itshuylc/account-manager-lastest/releases/download/v1.1.1/Account.Manager_1.1.1_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMjAvVG93YlJNZDFFS0sreTFWeHJtczZhdFdzSkJpZjFZRm9FcmJoVytvWkhSRlpDMWd5T0NiSGhTZEwvWVYvOXdWa2RKQldTdXZ6akFJOGtFYXJYbmN2ZXREaUI5SFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDUxODE2CWZpbGU6QWNjb3VudCBNYW5hZ2VyXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCnpaaks3SDk1TENjVEFDR0hNeHdMOGgyOCtrSi81bTlvOE5GYVplYXFIWG5UVWhXVWZ6YnpSNjljQ1lCZUpJQTcrSHgwMVdzWTd3dHZzMmI1ZHlSK0RBPT0K",
+            "url": "https://github.com/itshuylc/account-manager-lastest/releases/download/v1.1.2/Account.Manager_1.1.2_x64_en-US.msi.zip"
         }
     }
 
 }
+
 
 
